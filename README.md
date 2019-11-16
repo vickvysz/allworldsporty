@@ -1,2 +1,0 @@
-# allworldsporty
-upcoming web developer
